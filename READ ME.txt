@@ -1,0 +1,11 @@
+Here I have developed two models.
+
+Model 1 : Dengue Prediction - Trabeya (Score : 27.3654 ) -> Developed from scratch.
+
+Model 2 : Dengue Prediction - Benchmark Improved (Score : 25.6370 ) -> Developed the provided Benchmark Model by DengAI.
+
+
+Contact Me;
+Name	    :Mayura Manawadu
+Contact No. : 0774599559
+Email       :mmayurapavan@gmail.com
